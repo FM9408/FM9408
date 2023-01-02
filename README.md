@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fm9408" alt="fm9408" /></a> </p>
 
-- 🔭Actualmente me encuentro trabajando en **Un proyecto personal en lo que consigo un trabajo como programador**
+- 🔭Actualmente me encuentro trabajando en **un proyecto personal en lo que consigo un trabajo como programador**
 
-- 🌱 Actualmente estoy aprendiendo **Siempre procuro aprender nuevas tecnologías, lenguajes de programación, frameworks, entre muchas otras cosas**
+- 🌱 **Siempre procuro aprender nuevas tecnologías, lenguajes de programación, frameworks, entre muchas otras cosas**
 
 - 💬 Puedes preguntarme acerca de **React, nodejs, express, sequelize, etc..**
 
