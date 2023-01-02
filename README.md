@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fm9408" alt="fm9408" /></a> </p>
 
-- 🔭Actualmente me encuentro trabajando en **un proyecto personal en lo que consigo un trabajo como programador**
+- 🔭Actualmente me encuentro trabajando en **Un proyecto personal en lo que consigo un trabajo como programador**
 
 - 🌱 **Siempre procuro aprender nuevas tecnologías, lenguajes de programación, frameworks, entre muchas otras cosas**
 
 - 💬 Puedes preguntarme acerca de **React, nodejs, express, sequelize, etc..**
+
+- 📫 Puedes contactarme a través **del correo fm9408developer@gmail.com o a través de mi linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fm9408&show_icons=true&theme=radical&locale=en&layout=compact" alt="fm9408" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fm9408&show_icons=true&locale=en" alt="fm9408" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fm9408&show_icons=true&theme=radical&locale=en" alt="fm9408" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fm9408&theme=dark" alt="fm9408" /></p>
